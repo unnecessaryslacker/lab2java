@@ -1,0 +1,11 @@
+# IntelliJ
+.idea
+*.iml
+*.iws
+
+# Output
+out/
+bin/
+
+# System files
+.DS_Store
